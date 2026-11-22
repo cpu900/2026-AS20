@@ -8,3 +8,6 @@ chmod +x script.sh
 ./script.sh
 
 ![Skärmdump](dump.png)
+
+## Exempel på utdata
+![Skärmdump](dump.png)
