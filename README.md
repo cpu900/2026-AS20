@@ -6,8 +6,7 @@ Ett Bash-skript som automatiserar grundläggande lokal systemrekognosering (*rec
 ```bash
 chmod +x script.sh
 ./script.sh
-
-![Skärmdump](dump.png)
+```
 
 ## Exempel på utdata
 ![Skärmdump](dump.png)
